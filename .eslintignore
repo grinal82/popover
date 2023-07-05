@@ -2,4 +2,5 @@ dist
 coverage
 doc
 webpack.*.js
-__test__
+/__tests__
+test.js
